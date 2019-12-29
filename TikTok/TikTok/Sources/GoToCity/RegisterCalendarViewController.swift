@@ -48,6 +48,7 @@ class RegisterCalendarViewController: UIViewController {
         
        //작업해야할 부분
         //두루루 asdfasdf
+        //나는 준성
         
         
         
