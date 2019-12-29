@@ -47,7 +47,7 @@ class RegisterCalendarViewController: UIViewController {
           arrivedLabel.text = date
         
        //작업해야할 부분
-        //두루루
+        //두루루 asdfasdf
         
         
         
