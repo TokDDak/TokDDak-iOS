@@ -99,6 +99,13 @@ class CityChooseTableViewController: UITableViewController, IndicatorInfoProvide
         
         TravelData.userChooseCity = twoDimensionalArray[indexPath.section].cities[indexPath.row]
         
+        guard let nextVC = self.storyboard?.instantiateViewController(withIdentifier: "GoToVC") as? GoToCityViewController
+            else {
+                return
+        }
+        
+        self.navigationController?.pushViewController(nextVC, animated: true)
+        
         
     }
     

@@ -14,6 +14,8 @@
 		0D6D70D223B317F300923D4E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D6D70D123B317F300923D4E /* Assets.xcassets */; };
 		0D6D70D523B317F300923D4E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D6D70D323B317F300923D4E /* LaunchScreen.storyboard */; };
 		55491B2223B888FC00469709 /* TravelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55491B2123B888FC00469709 /* TravelData.swift */; };
+		55491B2423B89B0100469709 /* GoToCityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55491B2323B89B0100469709 /* GoToCityViewController.swift */; };
+		55491B2723B8A79000469709 /* RegisterCalendarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55491B2623B8A79000469709 /* RegisterCalendarViewController.swift */; };
 		5550420123B62AE600ADCECB /* ChooseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5550420023B62AE600ADCECB /* ChooseViewController.swift */; };
 		5550420323B6480300ADCECB /* TravelingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5550420223B6480300ADCECB /* TravelingViewController.swift */; };
 		5550420523B72BF300ADCECB /* PopularCityCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5550420423B72BF300ADCECB /* PopularCityCollectionViewCell.swift */; };
@@ -63,6 +65,8 @@
 		24D16F3A75C980E832DBB4A4 /* Pods-TikTok-TikTokUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TikTok-TikTokUITests.release.xcconfig"; path = "Target Support Files/Pods-TikTok-TikTokUITests/Pods-TikTok-TikTokUITests.release.xcconfig"; sourceTree = "<group>"; };
 		409C6030FDD984AAF09D5316 /* Pods_TikTok_TikTokUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TikTok_TikTokUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		55491B2123B888FC00469709 /* TravelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelData.swift; sourceTree = "<group>"; };
+		55491B2323B89B0100469709 /* GoToCityViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoToCityViewController.swift; sourceTree = "<group>"; };
+		55491B2623B8A79000469709 /* RegisterCalendarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterCalendarViewController.swift; sourceTree = "<group>"; };
 		5550420023B62AE600ADCECB /* ChooseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseViewController.swift; sourceTree = "<group>"; };
 		5550420223B6480300ADCECB /* TravelingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelingViewController.swift; sourceTree = "<group>"; };
 		5550420423B72BF300ADCECB /* PopularCityCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopularCityCollectionViewCell.swift; sourceTree = "<group>"; };
@@ -160,6 +164,15 @@
 			path = TravelData;
 			sourceTree = "<group>";
 		};
+		55491B2523B8A02A00469709 /* GoToCity */ = {
+			isa = PBXGroup;
+			children = (
+				55491B2323B89B0100469709 /* GoToCityViewController.swift */,
+				55491B2623B8A79000469709 /* RegisterCalendarViewController.swift */,
+			);
+			path = GoToCity;
+			sourceTree = "<group>";
+		};
 		555041FE23B61C8300ADCECB /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
@@ -199,6 +212,7 @@
 		55F9CC7B23B3206A00E15332 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
+				55491B2523B8A02A00469709 /* GoToCity */,
 				55491B2023B888E800469709 /* TravelData */,
 				555041FF23B61CA100ADCECB /* ExtensionModel */,
 				555041FE23B61C8300ADCECB /* ViewController */,
@@ -463,6 +477,7 @@
 				55F9CC8123B327A800E15332 /* PopUpViewController.swift in Sources */,
 				5550420723B73EF200ADCECB /* ChildViewController.swift in Sources */,
 				0D6D70CD23B317F100923D4E /* ViewController.swift in Sources */,
+				55491B2423B89B0100469709 /* GoToCityViewController.swift in Sources */,
 				5550420523B72BF300ADCECB /* PopularCityCollectionViewCell.swift in Sources */,
 				0D6D70C923B317F100923D4E /* AppDelegate.swift in Sources */,
 				5550420323B6480300ADCECB /* TravelingViewController.swift in Sources */,
@@ -470,6 +485,7 @@
 				5550420923B74B9500ADCECB /* CityChooseTableViewController.swift in Sources */,
 				55F9CC7F23B3258100E15332 /* InjunViewController.swift in Sources */,
 				5550420D23B76D4700ADCECB /* CityChooseTableViewCell.swift in Sources */,
+				55491B2723B8A79000469709 /* RegisterCalendarViewController.swift in Sources */,
 				5550420123B62AE600ADCECB /* ChooseViewController.swift in Sources */,
 				55F9CC8323B354EC00E15332 /* StartViewController.swift in Sources */,
 			);
