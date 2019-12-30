@@ -4,11 +4,11 @@
 Service Work Flow
 ======
 
-<lo>
+<ol>
   <li> 메인화면 </li>
   
   
-  
+</ol>
 
 Launch Screen
 ======
