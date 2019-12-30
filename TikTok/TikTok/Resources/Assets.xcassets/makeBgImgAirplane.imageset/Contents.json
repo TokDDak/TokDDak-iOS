@@ -1,14 +1,14 @@
 {
   "images" : [
     {
-      "scale" : "1x",
       "idiom" : "universal",
-      "filename" : "bgImgAirplane.png"
+      "filename" : "makeBgImgAirplane.png",
+      "scale" : "1x"
     },
     {
-      "idiom" : "universal",
       "scale" : "2x",
-      "filename" : "bgImgAirplane@2x.png"
+      "filename" : "makeBgImgAirplane@2x.png",
+      "idiom" : "universal"
     },
     {
       "idiom" : "universal",

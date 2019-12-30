@@ -2,13 +2,13 @@
   "images" : [
     {
       "scale" : "1x",
-      "idiom" : "universal",
-      "filename" : "bgImgAirplane.png"
+      "filename" : "makeEtCalendar.png",
+      "idiom" : "universal"
     },
     {
       "idiom" : "universal",
-      "scale" : "2x",
-      "filename" : "bgImgAirplane@2x.png"
+      "filename" : "makeEtCalendar@2x.png",
+      "scale" : "2x"
     },
     {
       "idiom" : "universal",

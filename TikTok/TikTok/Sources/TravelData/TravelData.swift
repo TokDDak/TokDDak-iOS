@@ -11,6 +11,7 @@ import Foundation
 class TravelData {
     
     static var userChooseCity:String = ""
+    
 }
 
 
