@@ -47,19 +47,37 @@ Service Work Flow
 <img width="382" alt="스크린샷 2019-12-30 오후 6 35 46" src="https://user-images.githubusercontent.com/55793344/71582452-a6416080-2b4d-11ea-9a7a-059d589524d6.png">
 </div>
 
-## 메인뷰 - 풀스크롤 화면 구현 완료 - 비행기 애니메이셔 완료
+### 카테고리 선택 - 팝업창, 데이터 전달 구현 완료
+<img width="353" alt="스크린샷 2019-12-30 오후 10 49 35" src="https://user-images.githubusercontent.com/37113547/71584704-4354c700-2b57-11ea-8eef-acca0d9b2183.png">
+<img width="353" alt="스크린샷 2019-12-30 오후 10 49 39" src="https://user-images.githubusercontent.com/37113547/71584705-4354c700-2b57-11ea-8bd1-22bae2725756.png">
+<img width="353" alt="스크린샷 2019-12-30 오후 10 49 45" src="https://user-images.githubusercontent.com/37113547/71584706-43ed5d80-2b57-11ea-807a-96e269252e07.png">
+<img width="353" alt="스크린샷 2019-12-30 오후 10 49 50" src="https://user-images.githubusercontent.com/37113547/71584708-43ed5d80-2b57-11ea-89a2-c9f448cf0a56.png">
+<img width="353" alt="스크린샷 2019-12-30 오후 10 49 52" src="https://user-images.githubusercontent.com/37113547/71584709-43ed5d80-2b57-11ea-9221-ef5fcf51e1b0.png">
+<img width="353" alt="스크린샷 2019-12-30 오후 10 49 54" src="https://user-images.githubusercontent.com/37113547/71584710-43ed5d80-2b57-11ea-8ae0-a9f890c06be4.png">
+<img width="353" alt="스크린샷 2019-12-30 오후 10 49 57" src="https://user-images.githubusercontent.com/37113547/71584711-4485f400-2b57-11ea-992d-11914da2ede4.png">
+<img width="353" alt="스크린샷 2019-12-30 오후 10 50 03" src="https://user-images.githubusercontent.com/37113547/71584712-4485f400-2b57-11ea-8a79-662506d61a69.png">
+
+
+
+### 메인뷰 - 풀스크롤 화면 구현 완료 - 비행기 애니메이셔 완료
 - 데이터 작업중이라 예시 이미지로 구현
 - 인기여행지 데이터 데이터 기다리는 중
 - button을 이용해 메거진 구혀 완료 , 데이터 기다리는중
-## 도시선택 - 디자인 커스텀 완료 - 대륙별 도시별 Expandeble 셀 구혀 완료 도시 선택 다음 뷰로 이동
-## 일정 선택뷰 - DatePicker이용하 출발 도착 Date 구현완료 , 두 날짜 사이으 Days 계산 완료 구현 완료
+### 도시선택 - 디자인 커스텀 완료 - 대륙별 도시별 Expandeble 셀 구현 완료 도시 선택 다음 뷰로 이동
+### 일정 선택뷰 - DatePicker이용하 출발 도착 Date 구현완료 , 두 날짜 사이으 Days 계산 완료 구현 완료
 
 <div>
 <img width="382" alt="스크린샷 2019-12-30 오후 6 35 59" src="https://user-images.githubusercontent.com/55793344/71582458-ab9eab00-2b4d-11ea-993b-aed98049c963.png">
 <img width="481" alt="스크린샷 2019-12-30 오후 6 36 50" src="https://user-images.githubusercontent.com/55793344/71582463-afcac880-2b4d-11ea-99d6-3a0662f494aa.png">
 </div>
 
-### 문제점과 해결 방법 report
+### 미구현 기능
+  - 전체일정 : Drag&Drop 기능
+  - 마이페이지 : 지출 입력/출력
+  - 여행상세페이지 : 스크롤 뷰
+  - 총 예산 : 예산에 따른 막대기 바 배정
+  
+## 문제점과 해결 방법 report
 
 - delegate 을 이용한 data 전달 방식 종류</h3></li>
   - segue 를 이용한 방식 </li>
