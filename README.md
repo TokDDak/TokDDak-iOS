@@ -48,6 +48,15 @@ Service Work Flow
 </div>
 
 ### 카테고리 선택 - 팝업창, 데이터 전달 구현 완료
+<img width="353" alt="스크린샷 2019-12-30 오후 10 49 35" src="https://user-images.githubusercontent.com/37113547/71584704-4354c700-2b57-11ea-8eef-acca0d9b2183.png">
+<img width="353" alt="스크린샷 2019-12-30 오후 10 49 39" src="https://user-images.githubusercontent.com/37113547/71584705-4354c700-2b57-11ea-8bd1-22bae2725756.png">
+<img width="353" alt="스크린샷 2019-12-30 오후 10 49 45" src="https://user-images.githubusercontent.com/37113547/71584706-43ed5d80-2b57-11ea-807a-96e269252e07.png">
+<img width="353" alt="스크린샷 2019-12-30 오후 10 49 50" src="https://user-images.githubusercontent.com/37113547/71584708-43ed5d80-2b57-11ea-89a2-c9f448cf0a56.png">
+<img width="353" alt="스크린샷 2019-12-30 오후 10 49 52" src="https://user-images.githubusercontent.com/37113547/71584709-43ed5d80-2b57-11ea-9221-ef5fcf51e1b0.png">
+<img width="353" alt="스크린샷 2019-12-30 오후 10 49 54" src="https://user-images.githubusercontent.com/37113547/71584710-43ed5d80-2b57-11ea-8ae0-a9f890c06be4.png">
+<img width="353" alt="스크린샷 2019-12-30 오후 10 49 57" src="https://user-images.githubusercontent.com/37113547/71584711-4485f400-2b57-11ea-992d-11914da2ede4.png">
+<img width="353" alt="스크린샷 2019-12-30 오후 10 50 03" src="https://user-images.githubusercontent.com/37113547/71584712-4485f400-2b57-11ea-8a79-662506d61a69.png">
+
 
 
 ### 메인뷰 - 풀스크롤 화면 구현 완료 - 비행기 애니메이셔 완료
