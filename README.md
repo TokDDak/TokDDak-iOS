@@ -26,7 +26,7 @@ Service Work Flow
     </ul>
   <li><h3> 예산 선정 완료 </h3></li>
   <ul>
-   <li><h3> 전체 일정 </h3></li>
+  <li><h3> 전체 일정 </h3></li>
   </ul>
 </ol>
 
