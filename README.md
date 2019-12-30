@@ -47,19 +47,28 @@ Service Work Flow
 <img width="382" alt="스크린샷 2019-12-30 오후 6 35 46" src="https://user-images.githubusercontent.com/55793344/71582452-a6416080-2b4d-11ea-9a7a-059d589524d6.png">
 </div>
 
-## 메인뷰 - 풀스크롤 화면 구현 완료 - 비행기 애니메이셔 완료
+### 카테고리 선택 - 팝업창, 데이터 전달 구현 완료
+
+
+### 메인뷰 - 풀스크롤 화면 구현 완료 - 비행기 애니메이셔 완료
 - 데이터 작업중이라 예시 이미지로 구현
 - 인기여행지 데이터 데이터 기다리는 중
 - button을 이용해 메거진 구혀 완료 , 데이터 기다리는중
-## 도시선택 - 디자인 커스텀 완료 - 대륙별 도시별 Expandeble 셀 구혀 완료 도시 선택 다음 뷰로 이동
-## 일정 선택뷰 - DatePicker이용하 출발 도착 Date 구현완료 , 두 날짜 사이으 Days 계산 완료 구현 완료
+### 도시선택 - 디자인 커스텀 완료 - 대륙별 도시별 Expandeble 셀 구현 완료 도시 선택 다음 뷰로 이동
+### 일정 선택뷰 - DatePicker이용하 출발 도착 Date 구현완료 , 두 날짜 사이으 Days 계산 완료 구현 완료
 
 <div>
 <img width="382" alt="스크린샷 2019-12-30 오후 6 35 59" src="https://user-images.githubusercontent.com/55793344/71582458-ab9eab00-2b4d-11ea-993b-aed98049c963.png">
 <img width="481" alt="스크린샷 2019-12-30 오후 6 36 50" src="https://user-images.githubusercontent.com/55793344/71582463-afcac880-2b4d-11ea-99d6-3a0662f494aa.png">
 </div>
 
-### 문제점과 해결 방법 report
+### 미구현 기능
+  - 전체일정 : Drag&Drop 기능
+  - 마이페이지 : 지출 입력/출력
+  - 여행상세페이지 : 스크롤 뷰
+  - 총 예산 : 예산에 따른 막대기 바 배정
+  
+## 문제점과 해결 방법 report
 
 - delegate 을 이용한 data 전달 방식 종류</h3></li>
   - segue 를 이용한 방식 </li>
