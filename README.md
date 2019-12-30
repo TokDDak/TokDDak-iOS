@@ -10,7 +10,13 @@ Service Work Flow
   <li> 나라 및 도시 선택 </li>
   <li> 카테고리 선택 </li>
     <ul>
-      <li> dsa </li>
+      <li> 숙박 </li>
+        > 돈
+      <li> 식사 </li>
+      <li> 주류 및 간식 </li>
+      <li> 교통 </li>
+      <li> 쇼핑 </li>
+      <li> 액티비티 </li>
     </ul>
   
   
